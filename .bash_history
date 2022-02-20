@@ -44,3 +44,6 @@ git status
 git log
 git status
 git remote add origin https://github.com/akki0824/DEVOPS.git
+git branch
+git remote add origin https://github.com/akki0824/DEVOPS.git
+git push -u origin master
